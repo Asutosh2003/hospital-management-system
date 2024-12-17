@@ -1,0 +1,20 @@
+SMAP
+adminDashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminDashboard.jsp
+dashboard/adminDashboard.jsp
++ 1 styleandcss.jsp
+dashboard/../component/styleandcss.jsp
++ 2 navbar1.jsp
+dashboard/navbar1.jsp
+*L
+5,9:50
+1#1,6:59
+13#0,4:64
+1#2,31:68
+16#0:98
+17:99,3
+18,57:102
+*E
